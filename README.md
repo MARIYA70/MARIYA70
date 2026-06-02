@@ -41,12 +41,6 @@ Become an AI/ML Engineer
 
 ## 💻 Projects
 
-### PrepAI
-AI-powered learning assistant.
-
-### Sentiment Analyzer
-ML project for sentiment prediction.
-
 ### Machine Learning Projects
 Collection of ML experiments using Python.
 
