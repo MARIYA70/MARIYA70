@@ -1,12 +1,12 @@
 # Hi, I'm Mariya Shaikh 👋
 
-## 🎓 Education
+## Education
 BE Computer Science Engineering (AI & ML) – Fourth Year
 
-## 🎯 Career Goal
+##  Career Goal
 Become an AI/ML Engineer
 
-## 🚀 Skills
+## Skills
 
 ### Languages
 - Python
@@ -26,13 +26,13 @@ Become an AI/ML Engineer
 - Git
 - GitHub
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/mariya-shaikh-893ba9376/
 - Hugging Face: http://huggingface.co/MAriya2005
 - LeetCode: https://leetcode.com/u/MAGmariya02/
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Generative AI
 - Hugging Face
