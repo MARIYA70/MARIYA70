@@ -1,4 +1,4 @@
-# Hi, I'm Mariya Shaikh 👋
+# Hi, I'm Mariya Shaikh 
 
 ## Education
 BE Computer Science Engineering (AI & ML) – Fourth Year
